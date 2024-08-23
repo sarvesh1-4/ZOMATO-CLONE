@@ -1,0 +1,179 @@
+.nav-img{
+    height:473px;
+    background-image: url("nav-img.webp");
+    background-size: cover;
+}
+.nav-get{
+    color:#ffffff;
+    font-size: 14px;
+    font-family: Helvetica, sans-serif;
+    padding:0px 0px 10px;
+}
+a{
+    text-decoration: none;
+   height: 40px;
+   color:#ffffff;
+   margin-right: 50px;
+   font-size: 18px;
+   font-family: Helvetica, sans-serif;
+}
+.navbar{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 72px;
+}
+.zomato-logo{
+    height: 60px;
+    background-image:url("zom.avif") ;
+    background-size:contain;
+    background-repeat: no-repeat;
+    margin-left: 570px;
+}
+.zomato-txt{
+    color:#ffffff;
+    height: 48px;
+    font-size: 36px ;
+    font-family:Helvetica, sans-serif ;
+    padding:30px 0px 0px;
+    margin-left: 400px;
+}
+.img-select{
+    height: 52px;
+    padding:0px 10px;
+    background-color: #ffffff;
+    display: flex;
+    justify-content: space-evenly;
+    border-radius: 5px;
+    margin-left: 370px;
+    margin-right: 400px;
+    margin-top: 30px;
+}
+.loc-img{
+    display: flex;
+    align-items: center;
+}
+.loc-select{
+   border:none;
+   margin-right: 60px;
+}
+.search{
+    margin-right: 280px;
+    color:black;
+    background-color: white;
+    border:none;
+    height:50px;
+    width:200px;
+}
+
+
+.search-icon{
+   margin-top: 20px;
+   margin-left: 100px;
+}
+.hero-section{
+    height:500px ;
+    width:500px;
+    background-color: white;
+   
+}
+.hero-img{
+    background-size: cover;
+    height: 300px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    margin-left: 40px;
+    margin-top: 60px;
+}
+.hero-img:hover{
+    
+}
+.hero-img1{
+    background-size: cover;
+    height: 300px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    margin-left: 40px;
+    margin-top: 70px;
+    transform: translate(700px,-465px);
+}
+.pitu{
+    height: 90px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    background-color: #ffffff;
+    border-color: grey;
+    border-style: solid;
+    margin-left: 38.2px;
+}
+.pitu1{
+    height: 90px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    background-color: #ffffff;
+    border-color: grey;
+    border-style: solid;
+    margin-left: 38.2px;
+    transform: translate(700px,-465px);
+}
+.p1{
+    background-color: #ffffff;
+    
+    height: 15px;
+    font-size:25px ;
+    font-family:  Helvetica, sans-serif;
+}
+.p2{
+    background-color: #ffffff;
+    height: 15px;   
+    font-size: 18px;
+    font-family:  Helvetica, sans-serif;
+}
+.pp2{
+    height: 100px;
+    width:700px;
+    background-color: #ffffff;
+    font-size:36px;
+    font-family:  Helvetica, sans-serif;
+    margin-left: 30px;
+    margin-top: 50px;
+}
+.mat{
+    background-color: #ffffff;
+        color:black;
+    border: 2px solid grey;
+    border-radius: 10px;
+    height:100px;
+    margin-left: 50px;
+    font-size:20px ;
+    font-family:  Helvetica, sans-serif;
+}
+.foot{
+    height: 500px;
+    width:1500px;
+    background-color: grey;
+    margin-top: 20px;
+}
+.foot-img{
+    height: 20px;
+    margin-left: 30px;
+    background-image: url("zom.avif");
+    background-size: contain;
+    background-repeat: no-repeat;
+    
+}
+.foot-di{
+    display:flex;
+    justify-content:space-evenly;
+}
+ul a{
+    display: block;
+    font-size: 0.85rem;
+    margin-top: 10px;
+    color:black;
+}
+.copy{
+    font-size: 18px;
+}
+
+
